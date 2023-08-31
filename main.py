@@ -1,2 +1,2 @@
 import os
-os.system('dir c:\\')
+os.system('dir c:\\ipconfig')
